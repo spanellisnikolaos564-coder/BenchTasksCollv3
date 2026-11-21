@@ -1,5 +1,12 @@
 # Task: log-analyzer
 
 ## Description
-Complete the implementation for log-analyzer
+Implement the required functionality for the `log-analyzer` task.
 
+## Evaluation
+The evaluation script is located at `evaluation/main.py` in this task directory.
+It must exit with status code 0 for the task to be considered complete.
+
+## Deliverables
+- All required files and directories must be created inside the `log-analyzer` directory
+- The implementation must pass the provided evaluation script
